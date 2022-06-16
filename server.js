@@ -5,7 +5,7 @@
 * 
 *  Name: Sradha Jayan Student ID: 158924191_ Date: 04-06-2022
 *
-*  Online (Heroku) URL: https://git.heroku.com/web322-app-sradha.git
+*  Online (Heroku) URL: https://web322-app-sradha.herokuapp.com/about
 *
 *  GitHub Repository URL: https://github.com/sjayan42/web322-app
 ********************************************************************************/
